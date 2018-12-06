@@ -7,7 +7,7 @@ Help collect all the kittens into the wheelbarrow using CSS selectors.
 
 ## Tasks for LearnIDE Environment Users
 
-1. Click the "OPEN IDE" button
+1. Click the "OPEN IDE" button changes
 
 ## Tasks for Local Environment Users
 
